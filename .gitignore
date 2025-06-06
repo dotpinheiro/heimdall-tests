@@ -1,0 +1,6 @@
+aws/node_modules
+aws/.env
+firebase/node_modules
+firebase/.env
+heimdall/node_modules
+heimdall/.env

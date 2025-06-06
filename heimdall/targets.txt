@@ -1,0 +1,4 @@
+POST http://localhost:3001/check-permissions
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjljZTMxYzlhLTJlNjYtNDAwMi04MDcxLTkxODA5Y2Q2NDA0NCIsImlhdCI6MTc0OTE3MDAxNCwiZXhwIjoxNzQ5MTczNjE0fQ.T2yQeAd3eeQqRV-xZ5VbaonQ5YkuVBTkmvipSklmVO8
+Content-Type: application/json
+@../permissions.json
